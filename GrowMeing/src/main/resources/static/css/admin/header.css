@@ -1,0 +1,10 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: 'SCDream4';
+    src: url('/font/SCDream4.otf') format('truetype');
+}
+
+* {
+	font-family: 'SCDream4';
+}
